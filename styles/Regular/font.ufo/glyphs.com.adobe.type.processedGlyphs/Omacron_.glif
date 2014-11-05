@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Omacron">
+  <advance width="660" />
+  <unicode hex="014C" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="522" y="305" />
+      <point x="526" y="127" />
+      <point x="454" y="27" />
+      <point type="curve" x="337" y="27" />
+      <point x="221" y="27" />
+      <point x="141" y="105" />
+      <point type="curve" x="138" y="304" />
+      <point x="133" y="473" />
+      <point x="205" y="584" />
+      <point type="curve" x="322" y="584" />
+      <point x="437" y="584" />
+      <point x="518" y="496" />
+    </contour>
+    <contour>
+      <point type="curve" x="330" y="-13" />
+      <point x="498" y="-13" />
+      <point x="605" y="119" />
+      <point type="curve" x="605" y="304" />
+      <point x="605" y="489" />
+      <point x="498" y="625" />
+      <point type="curve" x="329" y="625" />
+      <point x="159" y="625" />
+      <point x="56" y="489" />
+      <point type="curve" x="56" y="304" />
+      <point x="56" y="119" />
+      <point x="160" y="-13" />
+    </contour>
+    <contour>
+      <point type="line" x="216" y="679" />
+      <point type="line" x="443" y="679" />
+      <point type="line" x="443" y="714" />
+      <point type="line" x="216" y="714" />
+    </contour>
+  </outline>
+</glyph>

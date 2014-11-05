@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="grave">
+  <advance width="186" />
+  <unicode hex="0060" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="63" y="665" />
+      <point x="45" y="660" />
+      <point x="22" y="649" />
+      <point type="curve" x="10" y="638" />
+      <point type="line" x="10" y="629" />
+      <point type="line" x="160" y="494" />
+      <point type="line" x="176" y="504" />
+    </contour>
+  </outline>
+</glyph>

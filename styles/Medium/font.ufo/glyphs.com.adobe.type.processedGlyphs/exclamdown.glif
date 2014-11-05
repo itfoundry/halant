@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="exclamdown">
+  <advance width="458" />
+  <unicode hex="00A1" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="231" y="-76" />
+      <point type="line" x="211" y="463" />
+      <point type="line" x="144" y="463" />
+      <point type="line" x="115" y="-76" />
+    </contour>
+    <contour>
+      <point type="curve" x="177" y="640" />
+      <point x="145" y="640" />
+      <point x="119" y="615" />
+      <point type="curve" x="119" y="582" />
+      <point x="119" y="551" />
+      <point x="145" y="524" />
+      <point type="curve" x="177" y="524" />
+      <point x="209" y="524" />
+      <point x="236" y="551" />
+      <point type="curve" x="236" y="582" />
+      <point x="236" y="615" />
+      <point x="209" y="640" />
+    </contour>
+  </outline>
+</glyph>

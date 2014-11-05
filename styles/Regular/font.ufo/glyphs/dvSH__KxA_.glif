@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSH_KxA" format="1">
+  <advance width="1286"/>
+  <outline>
+    <contour>
+      <point x="579" y="-61" type="line"/>
+      <point x="635" y="-117" type="line"/>
+      <point x="692" y="-61" type="line"/>
+      <point x="635" y="-5" type="line"/>
+    </contour>
+    <component base="dvKA" xOffset="485"/>
+    <component base="dvSH"/>
+  </outline>
+</glyph>

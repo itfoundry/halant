@@ -1,0 +1,147 @@
+# Created: Thu Nov  6 01:22:17 2014
+# PS Name: Halant-Regular
+# MM Inst: None
+# MinKern: +/- 3 inclusive
+# exported from noApp
+
+@MMK_L_A = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde];
+@MMK_L_L = [L Lacute Lcaron Lslash];
+@MMK_L_O = [O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q];
+@MMK_L_V = [V W];
+@MMK_L_Y = [Y Yacute Ydieresis];
+@MMK_L_a = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde];
+@MMK_L_o = [o];
+@MMK_L_v = [w y];
+@MMK_R_A = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde];
+@MMK_R_O = [C Cacute Ccaron Ccedilla G Gbreve O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE Q];
+@MMK_R_V = [V W];
+@MMK_R_Y = [Y Yacute Ydieresis];
+@MMK_R_a = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae];
+@MMK_R_i = [i j];
+@MMK_R_m = [m n p r t];
+@MMK_R_o = [c cacute ccaron ccedilla d eth dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe q];
+@MMK_R_period = [comma ellipsis period];
+@MMK_R_quoteright = [quotedbl quotesingle quotedblleft quotedblright quoteleft quoteright];
+@MMK_R_u = [u uacute ucircumflex udieresis ugrave uhungarumlaut umacron];
+@MMK_R_v = [v w y yacute ydieresis];
+
+# glyph, glyph:
+pos R U -20;
+pos V S -6;
+pos W S -6;
+pos k g -6;
+
+# glyph, group exceptions:
+enum pos V @MMK_R_A -88;
+enum pos V @MMK_R_O -38;
+enum pos W @MMK_R_A -72;
+enum pos W @MMK_R_O -6;
+enum pos Y @MMK_R_A -56;
+enum pos a @MMK_R_v -4;
+enum pos agrave @MMK_R_v -24;
+enum pos o @MMK_R_v -2;
+enum pos w @MMK_R_a -30;
+enum pos w @MMK_R_o -6;
+
+# group, glyph exceptions:
+enum pos @MMK_L_A V -72;
+enum pos @MMK_L_A W -72;
+enum pos @MMK_L_A Y -56;
+enum pos @MMK_L_A t -28;
+
+# glyph, glyph exceptions:
+pos Lcaron V 2;
+
+# glyph, group:
+pos B @MMK_R_V -32;
+pos D @MMK_R_V -14;
+pos D @MMK_R_period -28;
+pos F @MMK_R_A -92;
+pos F @MMK_R_O -46;
+pos F @MMK_R_a -48;
+pos F @MMK_R_period -108;
+pos F @MMK_R_u -8;
+pos K @MMK_R_O -58;
+pos K @MMK_R_o -60;
+pos K @MMK_R_u -48;
+pos M @MMK_R_O -22;
+pos N @MMK_R_O -4;
+pos P @MMK_R_A -62;
+pos P @MMK_R_a -20;
+pos P @MMK_R_o -28;
+pos P @MMK_R_period -63;
+pos R @MMK_R_O -22;
+pos R @MMK_R_V -30;
+pos R @MMK_R_Y -24;
+pos R @MMK_R_o -20;
+pos R @MMK_R_u -4;
+pos T @MMK_R_A -60;
+pos T @MMK_R_a -54;
+pos T @MMK_R_o -70;
+pos T @MMK_R_period -64;
+pos T @MMK_R_u -26;
+pos T @MMK_R_v -22;
+pos U @MMK_R_A -38;
+pos U @MMK_R_O -16;
+pos U @MMK_R_period -48;
+pos X @MMK_R_O -30;
+pos X @MMK_R_a -24;
+pos X @MMK_R_o -36;
+pos X @MMK_R_u -24;
+pos X @MMK_R_v -30;
+pos k @MMK_R_m -4;
+pos k @MMK_R_o -6;
+pos k @MMK_R_u -4;
+pos l @MMK_R_v -4;
+pos r @MMK_R_v 24;
+pos v @MMK_R_a -24;
+pos v @MMK_R_o -18;
+pos v @MMK_R_u 6;
+
+# group, group/glyph:
+pos @MMK_L_A @MMK_R_O -22;
+pos @MMK_L_A @MMK_R_v -42;
+pos @MMK_L_A T -60;
+pos @MMK_L_A U -38;
+pos @MMK_L_L @MMK_R_O -20;
+pos @MMK_L_L @MMK_R_V -94;
+pos @MMK_L_L @MMK_R_Y -72;
+pos @MMK_L_L @MMK_R_quoteright -13;
+pos @MMK_L_L @MMK_R_u -8;
+pos @MMK_L_L @MMK_R_v -50;
+pos @MMK_L_L T -32;
+pos @MMK_L_L U -37;
+pos @MMK_L_O @MMK_R_A -22;
+pos @MMK_L_O @MMK_R_V -30;
+pos @MMK_L_O @MMK_R_Y -32;
+pos @MMK_L_O M -22;
+pos @MMK_L_O N -4;
+pos @MMK_L_O U -16;
+pos @MMK_L_O X -30;
+pos @MMK_L_V @MMK_R_O -32;
+pos @MMK_L_V @MMK_R_V 16;
+pos @MMK_L_V @MMK_R_Y 16;
+pos @MMK_L_V @MMK_R_a -56;
+pos @MMK_L_V @MMK_R_i -30;
+pos @MMK_L_V @MMK_R_m -34;
+pos @MMK_L_V @MMK_R_o -64;
+pos @MMK_L_V @MMK_R_period -73;
+pos @MMK_L_V @MMK_R_u -34;
+pos @MMK_L_V @MMK_R_v -8;
+pos @MMK_L_V f -11;
+pos @MMK_L_V g -82;
+pos @MMK_L_V s -17;
+pos @MMK_L_V x -8;
+pos @MMK_L_V z -16;
+pos @MMK_L_Y @MMK_R_O -32;
+pos @MMK_L_Y @MMK_R_V 16;
+pos @MMK_L_Y @MMK_R_i -34;
+pos @MMK_L_Y @MMK_R_m -56;
+pos @MMK_L_Y @MMK_R_o -94;
+pos @MMK_L_Y @MMK_R_period -74;
+pos @MMK_L_Y @MMK_R_u -56;
+pos @MMK_L_Y @MMK_R_v -17;
+pos @MMK_L_a @MMK_R_v -24;
+pos @MMK_L_o @MMK_R_v -16;
+pos @MMK_L_v @MMK_R_a -6;
+pos @MMK_L_v @MMK_R_o -20;

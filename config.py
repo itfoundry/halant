@@ -11,7 +11,7 @@ STYLE_NAMES = [
 ]
 
 UFOIG_ARGS = [
-    # '-kern',
+    '-kern',
     '-mark',
     # '-hint',
     '-flat',

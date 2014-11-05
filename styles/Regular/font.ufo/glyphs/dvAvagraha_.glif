@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAvagraha" format="1">
+  <advance width="608"/>
+  <unicode hex="093D"/>
+  <outline>
+    <contour>
+      <point x="271" y="411" type="line"/>
+      <point x="225" y="453"/>
+      <point x="205" y="487"/>
+      <point x="205" y="513" type="curve" smooth="yes"/>
+      <point x="205" y="547"/>
+      <point x="228" y="567"/>
+      <point x="264" y="567" type="curve" smooth="yes"/>
+      <point x="509" y="567" type="line"/>
+      <point x="457" y="626" type="line"/>
+      <point x="234" y="626" type="line" smooth="yes"/>
+      <point x="161" y="626"/>
+      <point x="127" y="592"/>
+      <point x="127" y="547" type="curve" smooth="yes"/>
+      <point x="127" y="506"/>
+      <point x="153" y="454"/>
+      <point x="200" y="409" type="curve" smooth="yes"/>
+      <point x="350" y="264" type="line" smooth="yes"/>
+      <point x="390" y="226"/>
+      <point x="420" y="180"/>
+      <point x="420" y="136" type="curve" smooth="yes"/>
+      <point x="420" y="82"/>
+      <point x="391" y="29"/>
+      <point x="290" y="29" type="curve" smooth="yes"/>
+      <point x="200" y="29"/>
+      <point x="115" y="117"/>
+      <point x="84" y="164" type="curve"/>
+      <point x="50" y="133" type="line"/>
+      <point x="85" y="80"/>
+      <point x="188" y="-32"/>
+      <point x="317" y="-32" type="curve" smooth="yes"/>
+      <point x="431" y="-32"/>
+      <point x="486" y="49"/>
+      <point x="486" y="125" type="curve" smooth="yes"/>
+      <point x="486" y="182"/>
+      <point x="443" y="253"/>
+      <point x="382" y="309" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

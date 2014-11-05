@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="apostrophemod">
+  <advance width="156" />
+  <unicode hex="02BC" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="54" y="566" />
+      <point x="90" y="591" />
+      <point x="116" y="623" />
+      <point type="curve" x="116" y="669" />
+      <point x="116" y="713" />
+      <point x="88" y="732" />
+      <point type="curve" x="71" y="732" />
+      <point x="54" y="732" />
+      <point x="40" y="721" />
+      <point type="curve" x="40" y="702" />
+      <point x="40" y="672" />
+      <point x="74" y="662" />
+      <point type="curve" x="74" y="632" />
+      <point x="74" y="611" />
+      <point x="64" y="596" />
+      <point type="curve" x="41" y="578" />
+    </contour>
+  </outline>
+</glyph>

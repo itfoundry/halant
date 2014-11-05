@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmI.a01" format="1">
+  <advance width="265"/>
+  <outline>
+    <contour>
+      <point x="507" y="705" type="move" name="abvm.i"/>
+    </contour>
+    <contour>
+      <point x="-8" y="629" type="line"/>
+      <point x="-21" y="634"/>
+      <point x="17" y="575"/>
+      <point x="17" y="586" type="curve" smooth="yes"/>
+      <point x="17" y="606"/>
+      <point x="97" y="614"/>
+      <point x="115" y="614" type="curve" smooth="yes"/>
+      <point x="158" y="614"/>
+      <point x="178" y="238"/>
+      <point x="189" y="224" type="curve"/>
+      <point x="286" y="175" type="line"/>
+      <point x="275" y="193"/>
+      <point x="249" y="628"/>
+      <point x="200" y="628" type="curve" smooth="yes"/>
+      <point x="187" y="628"/>
+      <point x="263" y="621"/>
+      <point x="263" y="592" type="curve" smooth="yes"/>
+      <point x="263" y="576"/>
+      <point x="226" y="637"/>
+      <point x="237" y="629" type="curve"/>
+    </contour>
+    <contour>
+      <point x="124" y="620" type="line"/>
+      <point x="105" y="638"/>
+      <point x="101" y="647"/>
+      <point x="101" y="670" type="curve"/>
+      <point x="101" y="702"/>
+      <point x="157" y="723"/>
+      <point x="200" y="723" type="curve"/>
+      <point x="253" y="723"/>
+      <point x="304" y="523"/>
+      <point x="356" y="469" type="curve"/>
+      <point x="407" y="487" type="line"/>
+      <point x="367" y="537"/>
+      <point x="297" y="807"/>
+      <point x="181" y="807" type="curve"/>
+      <point x="115" y="807"/>
+      <point x="107" y="769"/>
+      <point x="107" y="705" type="curve"/>
+      <point x="107" y="664"/>
+      <point x="116" y="642"/>
+      <point x="142" y="620" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

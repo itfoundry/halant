@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubledanda" format="1">
+  <advance width="592"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="228" y="557" type="line"/>
+      <point x="120" y="625" type="line"/>
+      <point x="120" y="26" type="line"/>
+      <point x="228" y="-41" type="line"/>
+    </contour>
+    <contour>
+      <point x="497" y="557" type="line"/>
+      <point x="389" y="625" type="line"/>
+      <point x="389" y="26" type="line"/>
+      <point x="497" y="-41" type="line"/>
+    </contour>
+  </outline>
+</glyph>

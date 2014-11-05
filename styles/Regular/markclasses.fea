@@ -1,0 +1,30 @@
+# Created: Thu Nov  6 01:22:17 2014
+# PS Name: Halant-Regular
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm_n94_627 = [dvmE dvmAI dvmEcandra dvAnusvara dvCandrabindu dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_blwm.u_n94_n48 = [dvmU dvmUU dvmvR];
+
+markClass @mGC_abvm_n94_627 <anchor -94 627> @MC_abvm;
+markClass @mGC_blwm.u_n94_n48 <anchor -94 -48> @MC_blwm.u;
+markClass acute <anchor 21 456> @MC_top;
+markClass breve <anchor 129 455> @MC_top;
+markClass caron <anchor 149 455> @MC_top;
+markClass cedilla <anchor 148 0> @MC_bottom;
+markClass circumflex <anchor 148 455> @MC_top;
+markClass commaaccent <anchor 66 0> @MC_bottom;
+markClass commaaccent.alt <anchor 28 611> @MC_commaaccent;
+markClass dieresis <anchor 119 455> @MC_top;
+markClass dotaccent <anchor 59 455> @MC_top;
+markClass dvAnusvara.amI <anchor 0 627> @MC_abvm.i;
+markClass dvReph.amI <anchor -1 619> @MC_abvm.i;
+markClass dvReph_Anusvara.amI <anchor 0 619> @MC_abvm.i;
+markClass dvVirama <anchor -94 -48> @MC_blwm.virama;
+markClass grave <anchor 154 455> @MC_top;
+markClass hungarumlaut <anchor 98 455> @MC_top;
+markClass macron <anchor 124 455> @MC_top;
+markClass ogonek <anchor 149 0> @MC_ogonek;
+markClass ring <anchor 89 455> @MC_top;
+markClass tilde <anchor 145 455> @MC_top;
+

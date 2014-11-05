@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKx_TA" format="1">
+  <advance width="1141"/>
+  <outline>
+    <contour>
+      <point x="76" y="-65" type="line"/>
+      <point x="156" y="-143" type="line"/>
+      <point x="234" y="-65" type="line"/>
+      <point x="154" y="14" type="line"/>
+    </contour>
+    <component base="dvTA" xOffset="572"/>
+    <component base="dvK"/>
+  </outline>
+</glyph>

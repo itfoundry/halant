@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNG_RA" format="1">
+  <advance width="591"/>
+  <outline>
+    <contour>
+      <point x="146" y="-207" type="line"/>
+      <point x="296" y="-27" type="line"/>
+      <point x="447" y="-207" type="line"/>
+      <point x="474" y="-189" type="line"/>
+      <point x="298" y="15" type="line"/>
+      <point x="278" y="15" type="line"/>
+      <point x="106" y="-175" type="line"/>
+    </contour>
+    <component base="dvNGA"/>
+  </outline>
+</glyph>

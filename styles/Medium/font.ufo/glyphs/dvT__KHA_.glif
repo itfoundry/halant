@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT_KHA" format="1">
+  <advance width="1140"/>
+  <outline>
+    <contour>
+      <point x="242" y="-15" type="line"/>
+      <point x="189" y="52"/>
+      <point x="136" y="136"/>
+      <point x="136" y="213" type="curve" smooth="yes"/>
+      <point x="136" y="281"/>
+      <point x="174" y="322"/>
+      <point x="248" y="322" type="curve"/>
+      <point x="304" y="322" type="line"/>
+      <point x="382" y="322"/>
+      <point x="419" y="264"/>
+      <point x="426" y="255" type="curve"/>
+      <point x="451" y="304" type="line"/>
+      <point x="426" y="338"/>
+      <point x="377" y="409"/>
+      <point x="281" y="409" type="curve"/>
+      <point x="222" y="409" type="line"/>
+      <point x="115" y="409"/>
+      <point x="58" y="353"/>
+      <point x="58" y="263" type="curve" smooth="yes"/>
+      <point x="58" y="168"/>
+      <point x="120" y="51"/>
+      <point x="196" y="-46" type="curve"/>
+    </contour>
+    <contour>
+      <point x="317" y="629" type="line"/>
+      <point x="-70" y="629" type="line"/>
+      <point x="-20" y="557" type="line"/>
+      <point x="366" y="557" type="line"/>
+    </contour>
+    <component base="dvKHA" xOffset="357"/>
+  </outline>
+</glyph>

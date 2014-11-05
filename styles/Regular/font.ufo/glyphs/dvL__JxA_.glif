@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvL_JxA" format="1">
+  <advance width="1228"/>
+  <outline>
+    <contour>
+      <point x="605" y="-60" type="line"/>
+      <point x="661" y="-116" type="line"/>
+      <point x="718" y="-60" type="line"/>
+      <point x="660" y="-4" type="line"/>
+    </contour>
+    <component base="dvL_JA"/>
+  </outline>
+</glyph>

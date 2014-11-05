@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="summation">
+  <advance width="510" />
+  <unicode hex="2211" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="81" y="-25" />
+      <point type="line" x="340" y="266" />
+      <point type="line" x="340" y="285" />
+      <point type="line" x="84" y="575" />
+      <point type="line" x="342" y="575" />
+      <point x="408" y="575" />
+      <point x="427" y="550" />
+      <point type="curve" x="433" y="481" />
+      <point x="438" y="481" />
+      <point x="444" y="481" />
+      <point type="curve" x="450" y="483" />
+      <point x="454" y="520" />
+      <point x="455" y="562" />
+      <point type="curve" x="452" y="601" />
+      <point type="line" x="25" y="601" />
+      <point type="line" x="25" y="576" />
+      <point type="line" x="299" y="264" />
+      <point type="line" x="25" y="-44" />
+      <point type="line" x="25" y="-70" />
+      <point type="line" x="448" y="-70" />
+      <point x="454" y="-27" />
+      <point x="456" y="29" />
+      <point type="curve" x="454" y="67" />
+      <point x="448" y="69" />
+      <point x="442" y="69" />
+      <point type="curve" x="437" y="69" />
+      <point x="431" y="0" />
+      <point x="412" y="-25" />
+      <point type="curve" x="346" y="-25" />
+    </contour>
+  </outline>
+</glyph>

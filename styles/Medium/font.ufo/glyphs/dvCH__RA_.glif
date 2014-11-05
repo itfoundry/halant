@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvCH_RA" format="1">
+  <advance width="702"/>
+  <outline>
+    <contour>
+      <point x="212" y="-179" type="line"/>
+      <point x="358" y="-8" type="line"/>
+      <point x="498" y="-179" type="line"/>
+      <point x="544" y="-149" type="line"/>
+      <point x="372" y="43" type="line"/>
+      <point x="308" y="43" type="line"/>
+      <point x="144" y="-124" type="line"/>
+    </contour>
+    <component base="dvCHA"/>
+  </outline>
+</glyph>

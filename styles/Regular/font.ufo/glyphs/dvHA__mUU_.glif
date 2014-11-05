@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvHA_mUU" format="1">
+  <advance width="503"/>
+  <outline>
+    <component base="dvmUU" xOffset="436" yOffset="-117"/>
+    <component base="dvHA"/>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="186"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="93" y="457" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="187" y="573" type="curve" smooth="yes"/>
+      <point x="187" y="617"/>
+      <point x="143" y="645"/>
+      <point x="93" y="645" type="curve" smooth="yes"/>
+      <point x="43" y="645"/>
+      <point x="-1" y="617"/>
+      <point x="-1" y="573" type="curve" smooth="yes"/>
+      <point x="-1" y="528"/>
+      <point x="43" y="500"/>
+      <point x="93" y="500" type="curve" smooth="yes"/>
+      <point x="143" y="500"/>
+      <point x="187" y="528"/>
+    </contour>
+    <contour>
+      <point x="55" y="573" type="curve" smooth="yes"/>
+      <point x="55" y="604"/>
+      <point x="73" y="616"/>
+      <point x="93" y="616" type="curve" smooth="yes"/>
+      <point x="114" y="616"/>
+      <point x="131" y="604"/>
+      <point x="131" y="573" type="curve" smooth="yes"/>
+      <point x="131" y="542"/>
+      <point x="113" y="529"/>
+      <point x="93" y="529" type="curve" smooth="yes"/>
+      <point x="73" y="529"/>
+      <point x="55" y="542"/>
+    </contour>
+  </outline>
+</glyph>

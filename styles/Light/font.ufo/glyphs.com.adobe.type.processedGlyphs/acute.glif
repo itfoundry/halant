@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="acute">
+  <advance width="186" />
+  <unicode hex="00B4" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="10" y="503" />
+      <point type="line" x="26" y="493" />
+      <point type="line" x="176" y="629" />
+      <point type="line" x="176" y="637" />
+      <point x="163" y="649" />
+      <point x="141" y="660" />
+      <point type="curve" x="123" y="664" />
+    </contour>
+  </outline>
+</glyph>

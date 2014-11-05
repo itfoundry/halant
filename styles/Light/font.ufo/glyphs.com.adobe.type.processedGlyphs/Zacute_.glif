@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Zacute">
+  <advance width="530" />
+  <unicode hex="0179" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="461" y="777" />
+      <point type="line" x="461" y="785" />
+      <point x="448" y="797" />
+      <point x="426" y="808" />
+      <point type="curve" x="408" y="812" />
+      <point type="line" x="295" y="651" />
+      <point type="line" x="311" y="641" />
+    </contour>
+    <contour>
+      <point type="line" x="110" y="29" />
+      <point type="line" x="470" y="576" />
+      <point x="470" y="585" />
+      <point x="469" y="594" />
+      <point type="curve" x="466" y="601" />
+      <point type="line" x="86" y="601" />
+      <point x="79" y="563" />
+      <point x="75" y="522" />
+      <point type="curve" x="75" y="484" />
+      <point x="81" y="481" />
+      <point x="87" y="480" />
+      <point type="curve" x="91" y="480" />
+      <point x="101" y="547" />
+      <point x="122" y="574" />
+      <point type="curve" x="188" y="574" />
+      <point type="line" x="415" y="574" />
+      <point type="line" x="53" y="25" />
+      <point x="53" y="16" />
+      <point x="56" y="6" />
+      <point type="curve" x="60" y="0" />
+      <point type="line" x="458" y="0" />
+      <point x="465" y="40" />
+      <point x="467" y="80" />
+      <point type="curve" x="467" y="118" />
+      <point x="463" y="120" />
+      <point x="457" y="121" />
+      <point type="curve" x="452" y="121" />
+      <point x="442" y="54" />
+      <point x="422" y="29" />
+      <point type="curve" x="355" y="29" />
+    </contour>
+  </outline>
+</glyph>

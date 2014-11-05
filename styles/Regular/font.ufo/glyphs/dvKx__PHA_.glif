@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKx_PHA" format="1">
+  <advance width="1404"/>
+  <outline>
+    <contour>
+      <point x="104" y="-60" type="line"/>
+      <point x="160" y="-116" type="line"/>
+      <point x="217" y="-60" type="line"/>
+      <point x="160" y="-4" type="line"/>
+    </contour>
+    <component base="dvPHA" xOffset="595"/>
+    <component base="dvK"/>
+  </outline>
+</glyph>

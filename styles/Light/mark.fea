@@ -1,0 +1,92 @@
+# Created: Thu Nov  6 01:22:00 2014
+# PS Name: Halant-Light
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_bottom {
+	@bGC_S_bottom = [S e];
+	pos base @bGC_S_bottom <anchor 237 0> mark @MC_bottom;
+	pos base E <anchor 259 0> mark @MC_bottom;
+	pos base G <anchor 321 0> mark @MC_bottom;
+	pos base K <anchor 279 0> mark @MC_bottom;
+	pos base L <anchor 244 0> mark @MC_bottom;
+	pos base N <anchor 329 0> mark @MC_bottom;
+	pos base R <anchor 291 0> mark @MC_bottom;
+	pos base T <anchor 247 0> mark @MC_bottom;
+	pos base c <anchor 234 0> mark @MC_bottom;
+	pos base copyright <anchor 266 0> mark @MC_bottom;
+	pos base fl <anchor 385 0> mark @MC_bottom;
+	pos base k <anchor 281 0> mark @MC_bottom;
+	pos base l <anchor 131 0> mark @MC_bottom;
+	pos base n <anchor 260 0> mark @MC_bottom;
+	pos base r <anchor 127 0> mark @MC_bottom;
+	pos base registered <anchor 401 124> mark @MC_bottom;
+	pos base s <anchor 202 0> mark @MC_bottom;
+	pos base t <anchor 192 0> mark @MC_bottom;
+} MARK_BASE_bottom;
+
+
+lookup MARK_BASE_commaaccent {
+	pos base L <anchor 260 601> mark @MC_commaaccent;
+	pos base d <anchor 454 700> mark @MC_commaaccent;
+	pos base l <anchor 198 700> mark @MC_commaaccent;
+	pos base t <anchor 198 601> mark @MC_commaaccent;
+} MARK_BASE_commaaccent;
+
+
+lookup MARK_BASE_ogonek {
+	pos base A <anchor 552 0> mark @MC_ogonek;
+	pos base E <anchor 443 0> mark @MC_ogonek;
+	pos base I <anchor 212 0> mark @MC_ogonek;
+	pos base U <anchor 398 0> mark @MC_ogonek;
+	pos base a <anchor 388 0> mark @MC_ogonek;
+	pos base dotlessi <anchor 252 10> mark @MC_ogonek;
+	pos base e <anchor 312 0> mark @MC_ogonek;
+	pos base i <anchor 219 0> mark @MC_ogonek;
+	pos base u <anchor 434 11> mark @MC_ogonek;
+} MARK_BASE_ogonek;
+
+
+lookup MARK_BASE_top {
+	@bGC_O_top = [O Oslash];
+	@bGC_o_top = [o oslash oe];
+	pos base @bGC_O_top <anchor 323 601> mark @MC_top;
+	pos base @bGC_o_top <anchor 259 453> mark @MC_top;
+	pos base A <anchor 276 601> mark @MC_top;
+	pos base C <anchor 365 599> mark @MC_top;
+	pos base D <anchor 275 599> mark @MC_top;
+	pos base E <anchor 260 601> mark @MC_top;
+	pos base G <anchor 329 601> mark @MC_top;
+	pos base I <anchor 124 601> mark @MC_top;
+	pos base K <anchor 279 601> mark @MC_top;
+	pos base L <anchor 126 599> mark @MC_top;
+	pos base N <anchor 330 601> mark @MC_top;
+	pos base R <anchor 283 599> mark @MC_top;
+	pos base S <anchor 251 601> mark @MC_top;
+	pos base T <anchor 247 601> mark @MC_top;
+	pos base U <anchor 319 601> mark @MC_top;
+	pos base Y <anchor 265 601> mark @MC_top;
+	pos base Z <anchor 301 601> mark @MC_top;
+	pos base a <anchor 218 453> mark @MC_top;
+	pos base c <anchor 268 463> mark @MC_top;
+	pos base copyright <anchor 313 599> mark @MC_top;
+	pos base dotlessi <anchor 126 453> mark @MC_top;
+	pos base e <anchor 254 453> mark @MC_top;
+	pos base fl <anchor 385 687> mark @MC_top;
+	pos base g <anchor 247 453> mark @MC_top;
+	pos base germandbls <anchor 532 687> mark @MC_top;
+	pos base l <anchor 131 687> mark @MC_top;
+	pos base n <anchor 277 454> mark @MC_top;
+	pos base r <anchor 198 463> mark @MC_top;
+	pos base registered <anchor 396 523> mark @MC_top;
+	pos base s <anchor 231 453> mark @MC_top;
+	pos base u <anchor 246 453> mark @MC_top;
+	pos base y <anchor 263 453> mark @MC_top;
+	pos base z <anchor 230 453> mark @MC_top;
+	pos base zero <anchor 316 601> mark @MC_top;
+} MARK_BASE_top;
+
+
+

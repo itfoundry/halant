@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTTH_RA" format="1">
+  <advance width="580"/>
+  <outline>
+    <contour>
+      <point x="193" y="-170" type="line"/>
+      <point x="334" y="-11" type="line"/>
+      <point x="461" y="-170" type="line"/>
+      <point x="531" y="-124" type="line"/>
+      <point x="365" y="52" type="line"/>
+      <point x="243" y="52" type="line"/>
+      <point x="89" y="-87" type="line"/>
+    </contour>
+    <component base="dvTTHA"/>
+  </outline>
+</glyph>

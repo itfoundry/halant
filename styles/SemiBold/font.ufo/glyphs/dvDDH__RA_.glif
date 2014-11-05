@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDDH_RA" format="1">
+  <advance width="533"/>
+  <outline>
+    <contour>
+      <point x="184" y="-171" type="line"/>
+      <point x="328" y="-6" type="line"/>
+      <point x="462" y="-171" type="line"/>
+      <point x="519" y="-134" type="line"/>
+      <point x="350" y="51" type="line"/>
+      <point x="259" y="51" type="line"/>
+      <point x="99" y="-104" type="line"/>
+    </contour>
+    <component base="dvDDHA"/>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Zdotaccent">
+  <advance width="547" />
+  <unicode hex="017B" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="304" y="673" />
+      <point x="333" y="673" />
+      <point x="356" y="696" />
+      <point type="curve" x="356" y="725" />
+      <point x="356" y="753" />
+      <point x="333" y="777" />
+      <point type="curve" x="304" y="777" />
+      <point x="275" y="777" />
+      <point x="252" y="753" />
+      <point type="curve" x="252" y="725" />
+      <point x="252" y="696" />
+      <point x="275" y="673" />
+    </contour>
+    <contour>
+      <point type="line" x="163" y="51" />
+      <point type="line" x="493" y="577" />
+      <point x="494" y="595" />
+      <point x="491" y="611" />
+      <point type="curve" x="487" y="623" />
+      <point type="line" x="72" y="623" />
+      <point x="65" y="578" />
+      <point x="62" y="529" />
+      <point type="curve" x="62" y="486" />
+      <point x="71" y="482" />
+      <point x="80" y="480" />
+      <point type="curve" x="88" y="480" />
+      <point x="100" y="549" />
+      <point x="122" y="573" />
+      <point type="curve" x="180" y="573" />
+      <point type="line" x="381" y="573" />
+      <point type="line" x="49" y="45" />
+      <point x="49" y="27" />
+      <point x="52" y="12" />
+      <point type="curve" x="58" y="0" />
+      <point type="line" x="486" y="0" />
+      <point x="493" y="46" />
+      <point x="495" y="95" />
+      <point type="curve" x="495" y="136" />
+      <point x="488" y="140" />
+      <point x="478" y="142" />
+      <point type="curve" x="470" y="142" />
+      <point x="458" y="73" />
+      <point x="437" y="51" />
+      <point type="curve" x="378" y="51" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDD_RA" format="1">
+  <advance width="523"/>
+  <outline>
+    <contour>
+      <point x="165" y="-202" type="line"/>
+      <point x="306" y="-43" type="line"/>
+      <point x="433" y="-202" type="line"/>
+      <point x="503" y="-156" type="line"/>
+      <point x="337" y="20" type="line"/>
+      <point x="215" y="20" type="line"/>
+      <point x="61" y="-119" type="line"/>
+    </contour>
+    <component base="dvDDA"/>
+  </outline>
+</glyph>

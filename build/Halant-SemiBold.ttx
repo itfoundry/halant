@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Halant-SemiBold.GlyphOrder.ttx"/>
+  <head src="Halant-SemiBold._h_e_a_d.ttx"/>
+  <hhea src="Halant-SemiBold._h_h_e_a.ttx"/>
+  <maxp src="Halant-SemiBold._m_a_x_p.ttx"/>
+  <OS_2 src="Halant-SemiBold.O_S_2f_2.ttx"/>
+  <name src="Halant-SemiBold._n_a_m_e.ttx"/>
+  <cmap src="Halant-SemiBold._c_m_a_p.ttx"/>
+  <post src="Halant-SemiBold._p_o_s_t.ttx"/>
+  <CFF src="Halant-SemiBold.C_F_F_.ttx"/>
+  <GDEF src="Halant-SemiBold.G_D_E_F_.ttx"/>
+  <GPOS src="Halant-SemiBold.G_P_O_S_.ttx"/>
+  <GSUB src="Halant-SemiBold.G_S_U_B_.ttx"/>
+  <hmtx src="Halant-SemiBold._h_m_t_x.ttx"/>
+</ttFont>

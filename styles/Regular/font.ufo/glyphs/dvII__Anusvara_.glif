@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvII_Anusvara" format="1">
+  <advance width="544"/>
+  <outline>
+    <contour>
+      <point x="438" y="726" type="line"/>
+      <point x="488" y="675" type="line"/>
+      <point x="540" y="726" type="line"/>
+      <point x="488" y="776" type="line"/>
+    </contour>
+    <component base="dvII"/>
+  </outline>
+</glyph>

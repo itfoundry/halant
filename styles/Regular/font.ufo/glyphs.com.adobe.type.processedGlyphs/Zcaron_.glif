@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Zcaron">
+  <advance width="538" />
+  <unicode hex="017D" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="333" y="658" />
+      <point type="line" x="440" y="780" />
+      <point type="line" x="423" y="799" />
+      <point type="line" x="302" y="708" />
+      <point type="line" x="183" y="799" />
+      <point type="line" x="164" y="780" />
+      <point type="line" x="273" y="658" />
+    </contour>
+    <contour>
+      <point type="line" x="136" y="40" />
+      <point type="line" x="481" y="577" />
+      <point x="481" y="590" />
+      <point x="480" y="602" />
+      <point type="curve" x="476" y="611" />
+      <point type="line" x="79" y="611" />
+      <point x="72" y="570" />
+      <point x="69" y="525" />
+      <point type="curve" x="69" y="485" />
+      <point x="76" y="482" />
+      <point x="84" y="480" />
+      <point type="curve" x="90" y="480" />
+      <point x="101" y="548" />
+      <point x="122" y="573" />
+      <point type="curve" x="184" y="573" />
+      <point type="line" x="398" y="573" />
+      <point type="line" x="51" y="35" />
+      <point x="51" y="21" />
+      <point x="54" y="9" />
+      <point type="curve" x="59" y="0" />
+      <point type="line" x="471" y="0" />
+      <point x="478" y="43" />
+      <point x="480" y="87" />
+      <point type="curve" x="480" y="127" />
+      <point x="475" y="130" />
+      <point x="467" y="131" />
+      <point type="curve" x="460" y="131" />
+      <point x="450" y="63" />
+      <point x="429" y="40" />
+      <point type="curve" x="366" y="40" />
+    </contour>
+  </outline>
+</glyph>

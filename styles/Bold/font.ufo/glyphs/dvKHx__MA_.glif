@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKHx_MA" format="1">
+  <advance width="1133"/>
+  <outline>
+    <contour>
+      <point x="48" y="-70" type="line"/>
+      <point x="142" y="-161" type="line"/>
+      <point x="233" y="-70" type="line"/>
+      <point x="139" y="23" type="line"/>
+    </contour>
+    <component base="dvKH"/>
+    <component base="dvMA" xOffset="536"/>
+  </outline>
+</glyph>

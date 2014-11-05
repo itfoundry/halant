@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT_KA" format="1">
+  <advance width="1132"/>
+  <outline>
+    <contour>
+      <point x="795" y="-43" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="796" y="632" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="795" y="-43" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="257" y="-6" type="line"/>
+      <point x="205" y="59"/>
+      <point x="153" y="137"/>
+      <point x="153" y="210" type="curve" smooth="yes"/>
+      <point x="153" y="273"/>
+      <point x="187" y="316"/>
+      <point x="256" y="316" type="curve"/>
+      <point x="469" y="316" type="line"/>
+      <point x="428" y="419" type="line"/>
+      <point x="222" y="419" type="line"/>
+      <point x="113" y="419"/>
+      <point x="57" y="364"/>
+      <point x="57" y="271" type="curve" smooth="yes"/>
+      <point x="57" y="176"/>
+      <point x="125" y="51"/>
+      <point x="202" y="-43" type="curve"/>
+    </contour>
+    <contour>
+      <point x="349" y="632" type="line"/>
+      <point x="-80" y="632" type="line"/>
+      <point x="-20" y="545" type="line"/>
+      <point x="409" y="545" type="line"/>
+    </contour>
+    <component base="dvKA" xOffset="344"/>
+  </outline>
+</glyph>
