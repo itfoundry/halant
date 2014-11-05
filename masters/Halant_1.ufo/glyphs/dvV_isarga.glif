@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvVisarga" format="1">
+  <advance width="312"/>
+  <unicode hex="0903"/>
+  <outline>
+    <contour>
+      <point x="83" y="381" type="line"/>
+      <point x="177" y="290" type="line"/>
+      <point x="268" y="381" type="line"/>
+      <point x="174" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="114" type="line"/>
+      <point x="177" y="23" type="line"/>
+      <point x="268" y="114" type="line"/>
+      <point x="174" y="207" type="line"/>
+    </contour>
+  </outline>
+</glyph>

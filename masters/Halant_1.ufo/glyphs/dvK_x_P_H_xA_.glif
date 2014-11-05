@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKx_PHxA" format="1">
+  <advance width="1339"/>
+  <outline>
+    <contour>
+      <point x="36" y="-69" type="line"/>
+      <point x="130" y="-160" type="line"/>
+      <point x="221" y="-69" type="line"/>
+      <point x="127" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="615" y="-20" type="line"/>
+      <point x="709" y="-111" type="line"/>
+      <point x="800" y="-20" type="line"/>
+      <point x="706" y="73" type="line"/>
+    </contour>
+    <component base="dvPHA" xOffset="554"/>
+    <component base="dvK"/>
+  </outline>
+</glyph>

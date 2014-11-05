@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKx_KxA" format="1">
+  <advance width="1341"/>
+  <outline>
+    <contour>
+      <point x="1018" y="635" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="1017" y="-40" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="1017" y="-40" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="34" y="-68" type="line"/>
+      <point x="128" y="-159" type="line"/>
+      <point x="219" y="-68" type="line"/>
+      <point x="125" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="644" y="-70" type="line"/>
+      <point x="738" y="-161" type="line"/>
+      <point x="829" y="-70" type="line"/>
+      <point x="735" y="23" type="line"/>
+    </contour>
+    <component base="dvKA" xOffset="560"/>
+    <component base="dvK"/>
+  </outline>
+</glyph>

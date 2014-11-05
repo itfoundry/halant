@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNG_RA" format="1">
+  <advance width="627"/>
+  <outline>
+    <contour>
+      <point x="443" y="-193" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="409" y="-298" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="445" y="635" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="179" y="-219" type="line"/>
+      <point x="320" y="-60" type="line"/>
+      <point x="447" y="-219" type="line"/>
+      <point x="517" y="-173" type="line"/>
+      <point x="351" y="3" type="line"/>
+      <point x="229" y="3" type="line"/>
+      <point x="75" y="-136" type="line"/>
+    </contour>
+    <component base="dvNGA"/>
+  </outline>
+</glyph>

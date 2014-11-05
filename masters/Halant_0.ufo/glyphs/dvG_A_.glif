@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvGA" format="1">
+  <advance width="536"/>
+  <unicode hex="0917"/>
+  <outline>
+    <contour>
+      <point x="436" y="577" type="line"/>
+      <point x="588" y="577" type="line"/>
+      <point x="556" y="625" type="line"/>
+      <point x="-52" y="625" type="line"/>
+      <point x="-20" y="577" type="line"/>
+      <point x="130" y="577" type="line"/>
+      <point x="130" y="334" type="line"/>
+      <point x="103" y="334"/>
+      <point x="64" y="333"/>
+      <point x="64" y="309" type="curve" smooth="yes"/>
+      <point x="64" y="270"/>
+      <point x="126" y="198"/>
+      <point x="163" y="198" type="curve" smooth="yes"/>
+      <point x="183" y="198"/>
+      <point x="186" y="218"/>
+      <point x="186" y="246" type="curve" smooth="yes"/>
+      <point x="186" y="577" type="line"/>
+      <point x="380" y="577" type="line"/>
+      <point x="380" y="-5" type="line"/>
+      <point x="436" y="-50" type="line"/>
+    </contour>
+  </outline>
+</glyph>
