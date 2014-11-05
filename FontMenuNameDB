@@ -10,34 +10,34 @@
 #   l=  Compatible Family Menu Name
 #   m=1,Macintosh Compatible Full Name
 
-[SomeDevanagari-Light]
-  f=  Some Devanagari
+[Halant-Light]
+  f=  Halant
   s=  Light
-  l=  Some Devanagari Light
-  m=1,Some Devanagari Light
+  l=  Halant Light
+  m=1,Halant Light
 
-[SomeDevanagari-Regular]
-  f=  Some Devanagari
+[Halant-Regular]
+  f=  Halant
   s=  Regular
-  l=  Some Devanagari
-  m=1,Some Devanagari
+  l=  Halant
+  m=1,Halant
 
-[SomeDevanagari-Medium]
-  f=  Some Devanagari
+[Halant-Medium]
+  f=  Halant
   s=  Medium
-  l=  Some Devanagari Medium
-  m=1,Some Devanagari Medium
+  l=  Halant Medium
+  m=1,Halant Medium
 
-[SomeDevanagari-SemiBold]
-  f=  Some Devanagari
+[Halant-SemiBold]
+  f=  Halant
   s=  SemiBold
-  l=  Some Devanagari SemiBold
-  m=1,Some Devanagari SemiBold
+  l=  Halant SemiBold
+  m=1,Halant SemiBold
 
-[SomeDevanagari-Bold]
-  f=  Some Devanagari
+[Halant-Bold]
+  f=  Halant
   s=  Bold
-  l=  Some Devanagari
-  m=1,Some Devanagari Bold
+  l=  Halant
+  m=1,Halant Bold
 # Style-linked because of `l` (the same as Regular's)
 #   and `styles/Bold/fontinfo` (`IsBoldStyle true`).
