@@ -84,7 +84,7 @@
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039600000000000003</real>
+	<real>0.0396</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -92,6 +92,12 @@
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFontName</key>
 	<string>Halant-Bold</string>
 	<key>postscriptForceBold</key>
@@ -105,6 +111,12 @@
 	</array>
 	<key>postscriptSlantAngle</key>
 	<real>0.0</real>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
 	<key>postscriptWindowsCharacterSet</key>

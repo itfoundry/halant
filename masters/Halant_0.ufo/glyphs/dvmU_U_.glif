@@ -4,6 +4,9 @@
   <unicode hex="0942"/>
   <outline>
     <contour>
+      <point x="-100" y="-50" type="move" name="_blwm.u"/>
+    </contour>
+    <contour>
       <point x="-240" y="-134" type="curve" smooth="yes"/>
       <point x="-240" y="-71"/>
       <point x="-182" y="-51"/>
@@ -30,9 +33,6 @@
       <point x="-180" y="-197" type="curve" smooth="yes"/>
       <point x="-217" y="-197"/>
       <point x="-240" y="-174"/>
-    </contour>
-    <contour>
-      <point x="-100" y="-50" type="move" name="_blwm.u"/>
     </contour>
   </outline>
 </glyph>

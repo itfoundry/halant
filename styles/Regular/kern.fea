@@ -1,28 +1,28 @@
-# Created: Thu Nov  6 01:22:17 2014
+# Created: Thu Nov  6 14:52:33 2014
 # PS Name: Halant-Regular
 # MM Inst: None
 # MinKern: +/- 3 inclusive
 # exported from noApp
 
-@MMK_L_A = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde];
+@MMK_L_A = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek];
 @MMK_L_L = [L Lacute Lcaron Lslash];
-@MMK_L_O = [O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q];
+@MMK_L_O = [O Q Ograve Oacute Ocircumflex Otilde Odieresis Oslash Omacron Ohungarumlaut];
 @MMK_L_V = [V W];
 @MMK_L_Y = [Y Yacute Ydieresis];
-@MMK_L_a = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde];
+@MMK_L_a = [a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek];
 @MMK_L_o = [o];
 @MMK_L_v = [w y];
-@MMK_R_A = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde];
-@MMK_R_O = [C Cacute Ccaron Ccedilla G Gbreve O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE Q];
+@MMK_R_A = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek];
+@MMK_R_O = [C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccaron Gbreve Omacron Ohungarumlaut OE];
 @MMK_R_V = [V W];
 @MMK_R_Y = [Y Yacute Ydieresis];
-@MMK_R_a = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae];
+@MMK_R_a = [a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek];
 @MMK_R_i = [i j];
 @MMK_R_m = [m n p r t];
-@MMK_R_o = [c cacute ccaron ccedilla d eth dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe q];
-@MMK_R_period = [comma ellipsis period];
-@MMK_R_quoteright = [quotedbl quotesingle quotedblleft quotedblright quoteleft quoteright];
-@MMK_R_u = [u uacute ucircumflex udieresis ugrave uhungarumlaut umacron];
+@MMK_R_o = [c d e o q ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash cacute ccaron dcaron dcroat emacron edotaccent eogonek ecaron omacron ohungarumlaut oe];
+@MMK_R_period = [comma period ellipsis];
+@MMK_R_quoteright = [quotedbl quotesingle quoteleft quoteright quotedblleft quotedblright];
+@MMK_R_u = [u ugrave uacute ucircumflex udieresis umacron uhungarumlaut];
 @MMK_R_v = [v w y yacute ydieresis];
 
 # glyph, glyph:

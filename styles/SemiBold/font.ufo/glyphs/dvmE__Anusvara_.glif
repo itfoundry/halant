@@ -5,9 +5,6 @@
     <contour>
       <point x="-79" y="632" type="move" name="_abvm"/>
     </contour>
-    <contour>
-      <point x="-79" y="632" type="move" name="_abvm"/>
-    </contour>
     <component base="dvmE" xOffset="-11"/>
     <component base="dvAnusvara" xOffset="65"/>
   </outline>

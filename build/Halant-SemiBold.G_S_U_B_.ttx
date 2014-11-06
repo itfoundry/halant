@@ -1077,7 +1077,6 @@
             <Ligature components="dvVA" glyph="dvD_VA"/>
             <Ligature components="dvG_RA" glyph="dvD_G_RA"/>
             <Ligature components="dvB_RA" glyph="dvD_B_RA"/>
-            <Ligature components="dvY_RA" glyph="dvD_Y_RA"/>
           </LigatureSet>
           <LigatureSet glyph="dvDD">
             <Ligature components="dvDDA" glyph="dvDD_DDA"/>
@@ -1669,7 +1668,6 @@
             <Glyph value="dvD_DHA"/>
             <Glyph value="dvD_BHA"/>
             <Glyph value="dvD_YA"/>
-            <Glyph value="dvD_Y_RA"/>
             <Glyph value="dvM_NA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
@@ -2655,7 +2653,6 @@
             <Glyph value="dvD_BHA"/>
             <Glyph value="dvD_MA"/>
             <Glyph value="dvD_YA"/>
-            <Glyph value="dvD_Y_RA"/>
             <Glyph value="dvD_VA"/>
             <Glyph value="dvDH_NA"/>
             <Glyph value="dvDH_N_YA"/>

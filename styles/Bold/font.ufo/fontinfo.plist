@@ -10,12 +10,10 @@
 	<integer>-297</integer>
 	<key>familyName</key>
 	<string>Halant</string>
-	<key>italicAngle</key>
-	<integer>0</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
+	<real>0.0396</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -44,10 +42,6 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-100</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>50</integer>
 	<key>postscriptWeightName</key>
 	<string>Bold</string>
 	<key>styleName</key>

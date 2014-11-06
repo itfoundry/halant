@@ -252,7 +252,6 @@
     <mtx name="dvD_RA" width="535" lsb="-82"/>
     <mtx name="dvD_VA" width="556" lsb="-82"/>
     <mtx name="dvD_YA" width="642" lsb="-92"/>
-    <mtx name="dvD_Y_RA" width="642" lsb="-92"/>
     <mtx name="dvE" width="561" lsb="-79"/>
     <mtx name="dvEcandra" width="571" lsb="-68"/>
     <mtx name="dvEight" width="549" lsb="36"/>

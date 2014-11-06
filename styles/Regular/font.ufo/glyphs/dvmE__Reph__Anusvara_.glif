@@ -6,9 +6,6 @@
       <point x="-94" y="627" type="move" name="_abvm"/>
     </contour>
     <contour>
-      <point x="-94" y="627" type="move" name="_abvm"/>
-    </contour>
-    <contour>
       <point x="-102" y="727" type="line"/>
       <point x="-54" y="678" type="line"/>
       <point x="-4" y="727" type="line"/>
