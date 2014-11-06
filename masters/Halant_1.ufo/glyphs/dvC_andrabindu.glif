@@ -4,9 +4,6 @@
   <unicode hex="0901"/>
   <outline>
     <contour>
-      <point x="-70" y="635" type="move" name="_abvm"/>
-    </contour>
-    <contour>
       <point x="-258" y="956" type="line"/>
       <point x="-164" y="865" type="line"/>
       <point x="-73" y="956" type="line"/>
@@ -27,6 +24,9 @@
       <point x="-243" y="791"/>
       <point x="-283" y="845"/>
       <point x="-322" y="901" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-70" y="635" type="move" name="_abvm"/>
     </contour>
   </outline>
 </glyph>

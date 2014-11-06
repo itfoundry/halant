@@ -3,13 +3,12 @@
   <advance width="438"/>
   <unicode hex="00A1"/>
   <outline>
-    <component base="exclam" yScale="-1.0" yOffset="631"/>
+    <component base="exclam" yOffset="631" yScale="-1"/>
   </outline>
   <lib>
     <dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

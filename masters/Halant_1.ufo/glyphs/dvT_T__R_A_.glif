@@ -3,15 +3,6 @@
   <advance width="520"/>
   <outline>
     <contour>
-      <point x="431" y="635" type="move" name="abvm"/>
-    </contour>
-    <contour>
-      <point x="409" y="-236" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="449" y="-130" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
       <point x="185" y="-164" type="line"/>
       <point x="326" y="-5" type="line"/>
       <point x="453" y="-164" type="line"/>
@@ -21,5 +12,14 @@
       <point x="81" y="-81" type="line"/>
     </contour>
     <component base="dvTTA"/>
+    <contour>
+      <point x="449" y="-130" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="409" y="-236" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="431" y="635" type="move" name="abvm"/>
+    </contour>
   </outline>
 </glyph>

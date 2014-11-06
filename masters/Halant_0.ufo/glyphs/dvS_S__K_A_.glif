@@ -2,16 +2,16 @@
 <glyph name="dvSS_KA" format="1">
   <advance width="1144"/>
   <outline>
-    <contour>
-      <point x="777" y="-50" type="move" name="blwm.u"/>
-    </contour>
+    <component base="dvKA" xOffset="338"/>
+    <component base="dvSS"/>
     <contour>
       <point x="777" y="-50" type="move" name="blwm.virama"/>
     </contour>
     <contour>
+      <point x="777" y="-50" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
       <point x="777" y="625" type="move" name="abvm"/>
     </contour>
-    <component base="dvKA" xOffset="338"/>
-    <component base="dvSS"/>
   </outline>
 </glyph>

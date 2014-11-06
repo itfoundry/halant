@@ -3,15 +3,6 @@
   <advance width="535"/>
   <outline>
     <contour>
-      <point x="435" y="635" type="move" name="abvm"/>
-    </contour>
-    <contour>
-      <point x="447" y="-185" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="494" y="-67" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
       <point x="435" y="331" type="line"/>
       <point x="435" y="531" type="line"/>
       <point x="617" y="531" type="line"/>
@@ -57,6 +48,15 @@
       <point x="161" y="299"/>
       <point x="196" y="331"/>
       <point x="276" y="331" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="494" y="-67" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="447" y="-185" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="435" y="635" type="move" name="abvm"/>
     </contour>
   </outline>
 </glyph>

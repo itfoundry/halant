@@ -2,16 +2,16 @@
 <glyph name="dvNN_TTHA" format="1">
   <advance width="1061"/>
   <outline>
+    <component base="dvTTHA" xOffset="471"/>
+    <component base="dvNN"/>
     <contour>
-      <point x="905" y="635" type="move" name="abvm"/>
+      <point x="885" y="-45" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="885" y="-148" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="885" y="-45" type="move" name="blwm.virama"/>
+      <point x="905" y="635" type="move" name="abvm"/>
     </contour>
-    <component base="dvTTHA" xOffset="471"/>
-    <component base="dvNN"/>
   </outline>
 </glyph>

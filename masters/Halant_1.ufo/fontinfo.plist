@@ -10,24 +10,22 @@
 	<integer>-297</integer>
 	<key>familyName</key>
 	<string>Halant</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Halant</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/11/06 12:13:04</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>9</integer>
-	<key>openTypeHheaAscender</key>
-	<integer>980</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-420</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Vivek Sadamate and Ninad Kale (Devanagari), Jonny Pinhorn (Latin)</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Indian Type Foundry</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Halant</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 001.001</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -74,12 +72,6 @@
 	<key>openTypeOS2Type</key>
 	<array>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>740</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-260</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>410</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 	</array>
@@ -89,14 +81,10 @@
 	<integer>700</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
-	<key>openTypeOS2WinAscent</key>
-	<integer>980</integer>
-	<key>openTypeOS2WinDescent</key>
-	<integer>420</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
+	<real>0.039600000000000003</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -104,12 +92,6 @@
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptFontName</key>
 	<string>Halant-Bold</string>
 	<key>postscriptForceBold</key>
@@ -122,29 +104,15 @@
 	<array>
 	</array>
 	<key>postscriptSlantAngle</key>
-	<real>-0.0</real>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-100</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>50</integer>
+	<real>0.0</real>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
-	<key>postscriptWeightName</key>
-	<string>Bold</string>
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
-	<key>styleMapFamilyName</key>
-	<string>Halant</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Bold</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

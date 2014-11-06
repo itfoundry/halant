@@ -2,16 +2,16 @@
 <glyph name="dvSS_TT_RA" format="1">
   <advance width="537"/>
   <outline>
+    <component base="dvSS_TTA"/>
+    <component base="dvRashtrasign" xOffset="500" yOffset="-81"/>
     <contour>
-      <point x="445" y="625" type="move" name="abvm"/>
+      <point x="349" y="-219" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="341" y="-287" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="349" y="-219" type="move" name="blwm.virama"/>
+      <point x="445" y="625" type="move" name="abvm"/>
     </contour>
-    <component base="dvSS_TTA"/>
-    <component base="dvRashtrasign" xOffset="500" yOffset="-81"/>
   </outline>
 </glyph>

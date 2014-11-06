@@ -4,13 +4,13 @@
   <unicode hex="0902"/>
   <outline>
     <contour>
-      <point x="-100" y="625" type="move" name="_abvm"/>
-    </contour>
-    <contour>
       <point x="-174" y="812" type="line"/>
       <point x="-128" y="765" type="line"/>
       <point x="-80" y="812" type="line"/>
       <point x="-128" y="858" type="line"/>
+    </contour>
+    <contour>
+      <point x="-100" y="625" type="move" name="_abvm"/>
     </contour>
   </outline>
 </glyph>

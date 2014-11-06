@@ -45,7 +45,7 @@
 	<key>Dcroat</key>
 	<string>D_croat.glif</string>
 	<key>Delta.math</key>
-	<string>D_elta_math.glif</string>
+	<string>D_elta.math.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>Eacute</key>
@@ -141,7 +141,7 @@
 	<key>Omacron</key>
 	<string>O_macron.glif</string>
 	<key>Omega.math</key>
-	<string>O_mega_math.glif</string>
+	<string>O_mega.math.glif</string>
 	<key>Oslash</key>
 	<string>O_slash.glif</string>
 	<key>Otilde</key>
@@ -299,7 +299,7 @@
 	<key>commaaccent</key>
 	<string>commaaccent.glif</string>
 	<key>commaaccent.alt</key>
-	<string>commaaccent_alt.glif</string>
+	<string>commaaccent.alt.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
 	<key>currency</key>
@@ -347,7 +347,7 @@
 	<key>dvAnusvara</key>
 	<string>dvA_nusvara.glif</string>
 	<key>dvAnusvara.amI</key>
-	<string>dvA_nusvara_amI_.glif</string>
+	<string>dvA_nusvara.amI_.glif</string>
 	<key>dvAvagraha</key>
 	<string>dvA_vagraha.glif</string>
 	<key>dvB</key>
@@ -528,8 +528,6 @@
 	<string>dvD__V_A_.glif</string>
 	<key>dvD_YA</key>
 	<string>dvD__Y_A_.glif</string>
-	<key>dvD_Y_RA</key>
-	<string>dvD__Y__R_A_.glif</string>
 	<key>dvE</key>
 	<string>dvE_.glif</string>
 	<key>dvEcandra</key>
@@ -1189,11 +1187,11 @@
 	<key>dvReph</key>
 	<string>dvR_eph.glif</string>
 	<key>dvReph.amI</key>
-	<string>dvR_eph_amI_.glif</string>
+	<string>dvR_eph.amI_.glif</string>
 	<key>dvReph_Anusvara</key>
 	<string>dvR_eph_A_nusvara.glif</string>
 	<key>dvReph_Anusvara.amI</key>
-	<string>dvR_eph_A_nusvara_amI_.glif</string>
+	<string>dvR_eph_A_nusvara.amI_.glif</string>
 	<key>dvRxA</key>
 	<string>dvR_xA_.glif</string>
 	<key>dvS</key>
@@ -1509,85 +1507,85 @@
 	<key>dvmI</key>
 	<string>dvmI_.glif</string>
 	<key>dvmI.a01</key>
-	<string>dvmI__a01.glif</string>
+	<string>dvmI_.a01.glif</string>
 	<key>dvmI.a02</key>
-	<string>dvmI__a02.glif</string>
+	<string>dvmI_.a02.glif</string>
 	<key>dvmI.a03</key>
-	<string>dvmI__a03.glif</string>
+	<string>dvmI_.a03.glif</string>
 	<key>dvmI.a04</key>
-	<string>dvmI__a04.glif</string>
+	<string>dvmI_.a04.glif</string>
 	<key>dvmI.a05</key>
-	<string>dvmI__a05.glif</string>
+	<string>dvmI_.a05.glif</string>
 	<key>dvmI.a06</key>
-	<string>dvmI__a06.glif</string>
+	<string>dvmI_.a06.glif</string>
 	<key>dvmI.a07</key>
-	<string>dvmI__a07.glif</string>
+	<string>dvmI_.a07.glif</string>
 	<key>dvmI.a08</key>
-	<string>dvmI__a08.glif</string>
+	<string>dvmI_.a08.glif</string>
 	<key>dvmI.a09</key>
-	<string>dvmI__a09.glif</string>
+	<string>dvmI_.a09.glif</string>
 	<key>dvmI.a10</key>
-	<string>dvmI__a10.glif</string>
+	<string>dvmI_.a10.glif</string>
 	<key>dvmI.a11</key>
-	<string>dvmI__a11.glif</string>
+	<string>dvmI_.a11.glif</string>
 	<key>dvmI.a12</key>
-	<string>dvmI__a12.glif</string>
+	<string>dvmI_.a12.glif</string>
 	<key>dvmI.a13</key>
-	<string>dvmI__a13.glif</string>
+	<string>dvmI_.a13.glif</string>
 	<key>dvmI.a14</key>
-	<string>dvmI__a14.glif</string>
+	<string>dvmI_.a14.glif</string>
 	<key>dvmI.a15</key>
-	<string>dvmI__a15.glif</string>
+	<string>dvmI_.a15.glif</string>
 	<key>dvmI.a16</key>
-	<string>dvmI__a16.glif</string>
+	<string>dvmI_.a16.glif</string>
 	<key>dvmI.a17</key>
-	<string>dvmI__a17.glif</string>
+	<string>dvmI_.a17.glif</string>
 	<key>dvmI.a18</key>
-	<string>dvmI__a18.glif</string>
+	<string>dvmI_.a18.glif</string>
 	<key>dvmI.a19</key>
-	<string>dvmI__a19.glif</string>
+	<string>dvmI_.a19.glif</string>
 	<key>dvmI.a20</key>
-	<string>dvmI__a20.glif</string>
+	<string>dvmI_.a20.glif</string>
 	<key>dvmI.a21</key>
-	<string>dvmI__a21.glif</string>
+	<string>dvmI_.a21.glif</string>
 	<key>dvmI.a22</key>
-	<string>dvmI__a22.glif</string>
+	<string>dvmI_.a22.glif</string>
 	<key>dvmI.a23</key>
-	<string>dvmI__a23.glif</string>
+	<string>dvmI_.a23.glif</string>
 	<key>dvmI.a24</key>
-	<string>dvmI__a24.glif</string>
+	<string>dvmI_.a24.glif</string>
 	<key>dvmI.a25</key>
-	<string>dvmI__a25.glif</string>
+	<string>dvmI_.a25.glif</string>
 	<key>dvmI.a26</key>
-	<string>dvmI__a26.glif</string>
+	<string>dvmI_.a26.glif</string>
 	<key>dvmI.a27</key>
-	<string>dvmI__a27.glif</string>
+	<string>dvmI_.a27.glif</string>
 	<key>dvmI.a28</key>
-	<string>dvmI__a28.glif</string>
+	<string>dvmI_.a28.glif</string>
 	<key>dvmI.a29</key>
-	<string>dvmI__a29.glif</string>
+	<string>dvmI_.a29.glif</string>
 	<key>dvmI.a30</key>
-	<string>dvmI__a30.glif</string>
+	<string>dvmI_.a30.glif</string>
 	<key>dvmI.a31</key>
-	<string>dvmI__a31.glif</string>
+	<string>dvmI_.a31.glif</string>
 	<key>dvmI.a32</key>
-	<string>dvmI__a32.glif</string>
+	<string>dvmI_.a32.glif</string>
 	<key>dvmII</key>
 	<string>dvmI_I_.glif</string>
 	<key>dvmII.aLong</key>
-	<string>dvmI_I__aL_ong.glif</string>
+	<string>dvmI_I_.aL_ong.glif</string>
 	<key>dvmII_Anusvara</key>
 	<string>dvmI_I__A_nusvara.glif</string>
 	<key>dvmII_Anusvara.aLong</key>
-	<string>dvmI_I__A_nusvara_aL_ong.glif</string>
+	<string>dvmI_I__A_nusvara.aL_ong.glif</string>
 	<key>dvmII_Reph</key>
 	<string>dvmI_I__R_eph.glif</string>
 	<key>dvmII_Reph.aLong</key>
-	<string>dvmI_I__R_eph_aL_ong.glif</string>
+	<string>dvmI_I__R_eph.aL_ong.glif</string>
 	<key>dvmII_Reph_Anusvara</key>
 	<string>dvmI_I__R_eph_A_nusvara.glif</string>
 	<key>dvmII_Reph_Anusvara.aLong</key>
-	<string>dvmI_I__R_eph_A_nu6f85ab4c.glif</string>
+	<string>dvmI_I__R_eph_A_nusvara.aL_ong.glif</string>
 	<key>dvmO</key>
 	<string>dvmO_.glif</string>
 	<key>dvmO_Anusvara</key>
@@ -1747,7 +1745,7 @@
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>mu.math</key>
-	<string>mu_math.glif</string>
+	<string>mu.math.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>
@@ -1891,7 +1889,7 @@
 	<key>space</key>
 	<string>space.glif</string>
 	<key>space.latn</key>
-	<string>space_latn.glif</string>
+	<string>space.latn.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
 	<key>summation</key>

@@ -2,16 +2,16 @@
 <glyph name="dvPH_TTA" format="1">
   <advance width="1111"/>
   <outline>
+    <component base="dvTTA" xOffset="598"/>
+    <component base="dvPH"/>
     <contour>
-      <point x="1015" y="625" type="move" name="abvm"/>
+      <point x="960" y="-4" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="960" y="-97" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="960" y="-4" type="move" name="blwm.virama"/>
+      <point x="1015" y="625" type="move" name="abvm"/>
     </contour>
-    <component base="dvTTA" xOffset="598"/>
-    <component base="dvPH"/>
   </outline>
 </glyph>

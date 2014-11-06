@@ -4,12 +4,6 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="192" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="601" type="move" name="commaaccent"/>
-    </contour>
-    <contour>
       <point x="147" y="558" type="line"/>
       <point x="146" y="110" type="line"/>
       <point x="146" y="53"/>
@@ -48,12 +42,17 @@
       <point x="286" y="415" type="curve"/>
       <point x="133" y="415" type="line"/>
     </contour>
+    <contour>
+      <point x="192" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="198" y="601" type="move" name="commaaccent"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

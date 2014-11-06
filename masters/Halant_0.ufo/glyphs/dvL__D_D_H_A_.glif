@@ -2,16 +2,16 @@
 <glyph name="dvL_DDHA" format="1">
   <advance width="1003"/>
   <outline>
+    <component base="dvDDHA" xOffset="480"/>
+    <component base="dvL"/>
     <contour>
-      <point x="889" y="625" type="move" name="abvm"/>
+      <point x="857" y="0" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="864" y="-90" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="857" y="0" type="move" name="blwm.virama"/>
+      <point x="889" y="625" type="move" name="abvm"/>
     </contour>
-    <component base="dvDDHA" xOffset="480"/>
-    <component base="dvL"/>
   </outline>
 </glyph>

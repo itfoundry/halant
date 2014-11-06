@@ -4,9 +4,6 @@
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="16" y="454" type="move" name="_top"/>
-    </contour>
-    <contour>
       <point x="176" y="637" type="curve"/>
       <point x="176" y="629" type="line"/>
       <point x="26" y="493" type="line"/>
@@ -15,12 +12,14 @@
       <point x="141" y="660"/>
       <point x="163" y="649"/>
     </contour>
+    <contour>
+      <point x="16" y="454" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

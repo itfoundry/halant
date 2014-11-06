@@ -3,16 +3,16 @@
   <advance width="789"/>
   <unicode hex="0958"/>
   <outline>
+    <component base="dvKA" xOffset="11"/>
+    <component base="dvNukta" xOffset="583"/>
     <contour>
-      <point x="467" y="635" type="move" name="abvm"/>
+      <point x="466" y="-40" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="466" y="-40" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="466" y="-40" type="move" name="blwm.virama"/>
+      <point x="467" y="635" type="move" name="abvm"/>
     </contour>
-    <component base="dvKA" xOffset="11"/>
-    <component base="dvNukta" xOffset="583"/>
   </outline>
 </glyph>
