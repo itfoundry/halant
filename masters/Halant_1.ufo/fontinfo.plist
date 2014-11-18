@@ -10,13 +10,19 @@
 	<integer>-297</integer>
 	<key>familyName</key>
 	<string>Halant</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Halant</string>
-	<key>openTypeHeadCreated</key>
-	<string>2014/11/06 12:13:04</string>
 	<key>openTypeHeadLowestRecPPEM</key>
+	<integer>9</integer>
+	<key>openTypeHheaAscender</key>
+	<integer>750</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-250</integer>
+	<key>openTypeHheaLineGap</key>
 	<integer>9</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Vivek Sadamate and Ninad Kale (Devanagari), Jonny Pinhorn (Latin)</string>
@@ -72,6 +78,12 @@
 	<key>openTypeOS2Type</key>
 	<array>
 	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>750</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-250</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 	</array>
@@ -81,6 +93,10 @@
 	<integer>700</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>0</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
@@ -117,6 +133,10 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
 	<key>postscriptWindowsCharacterSet</key>

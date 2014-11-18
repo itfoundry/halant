@@ -4,6 +4,9 @@
   <unicode hex="0064"/>
   <outline>
     <contour>
+      <point x="540" y="650" type="move" name="commaaccent"/>
+    </contour>
+    <contour>
       <point x="392" y="378" type="line"/>
       <point x="364" y="386"/>
       <point x="329" y="395"/>
@@ -58,14 +61,12 @@
       <point x="402" y="717"/>
       <point x="490" y="720" type="curve"/>
     </contour>
-    <contour>
-      <point x="540" y="650" type="move" name="commaaccent"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
