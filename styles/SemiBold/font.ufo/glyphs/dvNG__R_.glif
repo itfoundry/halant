@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNG_R" format="1">
+  <advance width="616"/>
+  <outline>
+    <contour>
+      <point x="136" y="-212" type="line"/>
+      <point x="313" y="-50" type="line"/>
+      <point x="487" y="-209" type="line"/>
+      <point x="544" y="-172" type="line"/>
+      <point x="335" y="7" type="line"/>
+      <point x="244" y="7" type="line"/>
+      <point x="51" y="-145" type="line"/>
+    </contour>
+    <component base="dvVirama" xOffset="491" yOffset="-90"/>
+    <component base="dvNGA"/>
+  </outline>
+</glyph>

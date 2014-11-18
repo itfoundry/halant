@@ -64,9 +64,12 @@
   dvN_RA
   dvP_RA
   dvBH_RA
+  dvSS_RA
   dvGx_RA
   dvG_NA
   dvTTH_TTHA
+  dvTTH_VA
+  dvDDH_VA
   dvT_TA
   dvD_DA
   dvD_NA
@@ -138,6 +141,7 @@
   dvC_RA
   dvCH_RA
   dvNN_RA
+  dvL_RA
   dvC_NA
   dvSH_CA
   dvSH_LA
@@ -154,6 +158,7 @@
   dvJH_RA
   dvNY_RA
   dvS_RA
+  dvLL_RA
   dvKHx_RA
   dvG_GA
   dvJH_NA

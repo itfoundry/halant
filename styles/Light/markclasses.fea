@@ -1,10 +1,10 @@
-# Created: Thu Nov  6 14:52:15 2014
+# Created: Tue Nov 18 19:40:59 2014
 # PS Name: Halant-Light
 # MM Inst: None
 # exported from noApp
 
-@mGC_abvm_n100_625 = [dvmE dvmAI dvmEcandra dvAnusvara dvCandrabindu dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
-@mGC_blwm.u_n100_n50 = [dvmU dvmUU dvmvR];
+@mGC_abvm_n100_625 = [dvmE dvmAI dvmEcandra dvAnusvara dvCandrabindu dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara dvmEcandra_Anusvara];
+@mGC_blwm.u_n100_n50 = [dvmU dvmUU dvmvR dvmvRR dvmvL dvmvLL];
 @mGC_top_86_453 = [ring hungarumlaut];
 
 markClass @mGC_abvm_n100_625 <anchor -100 625> @MC_abvm;

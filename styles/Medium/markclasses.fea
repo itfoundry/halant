@@ -1,13 +1,15 @@
-# Created: Thu Nov  6 14:52:49 2014
+# Created: Tue Nov 18 19:41:34 2014
 # PS Name: Halant-Medium
 # MM Inst: None
 # exported from noApp
 
-@mGC_abvm_n87_629 = [dvmE dvmAI dvmEcandra dvAnusvara dvCandrabindu dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm_n87_629 = [dvmE dvmAI dvmEcandra dvAnusvara dvCandrabindu dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara dvmEcandra_Anusvara];
+@mGC_blwm.u_n87_n37 = [dvmvL dvmvLL];
 @mGC_blwm.u_n87_n46 = [dvmU dvmUU dvmvR];
 @mGC_top_159_457 = [grave caron];
 
 markClass @mGC_abvm_n87_629 <anchor -87 629> @MC_abvm;
+markClass @mGC_blwm.u_n87_n37 <anchor -87 -37> @MC_blwm.u;
 markClass @mGC_blwm.u_n87_n46 <anchor -87 -46> @MC_blwm.u;
 markClass @mGC_top_159_457 <anchor 159 457> @MC_top;
 markClass acute <anchor 26 458> @MC_top;
@@ -22,6 +24,7 @@ markClass dvAnusvara.amI <anchor 0 629> @MC_abvm.i;
 markClass dvReph.amI <anchor -1 624> @MC_abvm.i;
 markClass dvReph_Anusvara.amI <anchor 0 624> @MC_abvm.i;
 markClass dvVirama <anchor -87 -46> @MC_blwm.virama;
+markClass dvmvRR <anchor -87 -45> @MC_blwm.u;
 markClass hungarumlaut <anchor 111 457> @MC_top;
 markClass macron <anchor 128 457> @MC_top;
 markClass ogonek <anchor 169 0> @MC_ogonek;

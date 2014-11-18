@@ -340,6 +340,8 @@
 	<string>dvB__VA_.glif</string>
 	<key>dvB_YA</key>
 	<string>dvB__YA_.glif</string>
+	<key>dvCH_R</key>
+	<string>dvCH__R_.glif</string>
 	<key>dvCH_RA</key>
 	<string>dvCH__RA_.glif</string>
 	<key>dvCH_R_YA</key>
@@ -360,6 +362,8 @@
 	<string>dvDDH__R_.glif</string>
 	<key>dvDDH_RA</key>
 	<string>dvDDH__RA_.glif</string>
+	<key>dvDDH_VA</key>
+	<string>dvDDH__VA_.glif</string>
 	<key>dvDD_R</key>
 	<string>dvDD__R_.glif</string>
 	<key>dvDD_RA</key>
@@ -560,6 +564,10 @@
 	<string>dvKx__PHxA_.glif</string>
 	<key>dvKx_TA</key>
 	<string>dvKx__TA_.glif</string>
+	<key>dvLL_R</key>
+	<string>dvLL__R_.glif</string>
+	<key>dvLL_RA</key>
+	<string>dvLL__RA_.glif</string>
 	<key>dvLL_YA</key>
 	<string>dvLL__YA_.glif</string>
 	<key>dvL_BA</key>
@@ -598,6 +606,8 @@
 	<string>dvL__PA_.glif</string>
 	<key>dvL_PHA</key>
 	<string>dvL__PHA_.glif</string>
+	<key>dvL_RA</key>
+	<string>dvL__RA_.glif</string>
 	<key>dvL_SA</key>
 	<string>dvL__SA_.glif</string>
 	<key>dvL_TA</key>
@@ -652,6 +662,8 @@
 	<string>dvM__VA_.glif</string>
 	<key>dvM_YA</key>
 	<string>dvM__YA_.glif</string>
+	<key>dvNG_R</key>
+	<string>dvNG__R_.glif</string>
 	<key>dvNG_RA</key>
 	<string>dvNG__RA_.glif</string>
 	<key>dvNN_DDA</key>
@@ -750,6 +762,8 @@
 	<string>dvN__VA_.glif</string>
 	<key>dvN_YA</key>
 	<string>dvN__YA_.glif</string>
+	<key>dvOm</key>
+	<string>dvOm_.glif</string>
 	<key>dvPH_JA</key>
 	<string>dvPH__JA_.glif</string>
 	<key>dvPH_LA</key>
@@ -822,6 +836,8 @@
 	<string>dvSS__PHA_.glif</string>
 	<key>dvSS_P_RA</key>
 	<string>dvSS__P__RA_.glif</string>
+	<key>dvSS_R</key>
+	<string>dvSS__R_.glif</string>
 	<key>dvSS_SSA</key>
 	<string>dvSS__SSA_.glif</string>
 	<key>dvSS_TTH_RA</key>
@@ -890,6 +906,8 @@
 	<string>dvTTH__RA_.glif</string>
 	<key>dvTTH_TTHA</key>
 	<string>dvTTH__TTHA_.glif</string>
+	<key>dvTTH_VA</key>
+	<string>dvTTH__VA_.glif</string>
 	<key>dvTT_R</key>
 	<string>dvTT__R_.glif</string>
 	<key>dvTT_RA</key>
@@ -1024,6 +1042,8 @@
 	<string>dvmI_.a31.glif</string>
 	<key>dvmI.a32</key>
 	<string>dvmI_.a32.glif</string>
+	<key>dvmvLL</key>
+	<string>dvmvLL_.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eacute</key>
@@ -1228,6 +1248,8 @@
 	<string>registered.glif</string>
 	<key>ruble</key>
 	<string>ruble.glif</string>
+	<key>rupee</key>
+	<string>rupee.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sacute</key>

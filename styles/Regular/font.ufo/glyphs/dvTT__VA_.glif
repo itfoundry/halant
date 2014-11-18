@@ -24,8 +24,8 @@
       <point x="305" y="-155"/>
       <point x="346" y="-124"/>
       <point x="372" y="-88" type="curve"/>
-      <point x="368" y="-242" type="line"/>
-      <point x="438" y="-292" type="line"/>
+      <point x="368" y="-227" type="line"/>
+      <point x="438" y="-276" type="line"/>
       <point x="438" y="134" type="line"/>
       <point x="457" y="147"/>
       <point x="472" y="161"/>
