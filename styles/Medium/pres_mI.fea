@@ -4,11 +4,7 @@
 
 # @mI_BASES_TOO_LONG = [];
 
-@mI_BASES_01 = [
-  dvG_DHA
-  dvN_DHA
-  dvB_DHA
-];
+# @mI_BASES_01 = [];
 
 @mI_BASES_02 = [
   dvRA
@@ -199,6 +195,7 @@
 
 @mI_BASES_11 = [
   dvK_TA
+  dvG_DHA
   dvG_N_YA
   dvG_BA
   dvG_BHA
@@ -210,6 +207,7 @@
   dvT_P_RA
   dvN_KA
   dvN_TA
+  dvN_DHA
   dvN_BHA
   dvP_MA
   dvP_YA
@@ -246,6 +244,7 @@
   dvN_VA
   dvP_SA
   dvB_TA
+  dvB_DHA
   dvB_BA
   dvB_BHA
   dvB_BH_RA
@@ -556,7 +555,7 @@
 
 # RULES
 
-  sub dvmI' @mI_BASES_01 by dvmI.a01;
+# sub dvmI' @mI_BASES_01 by dvmI.a01;
   sub dvmI' @mI_BASES_02 by dvmI.a02;
 # sub dvmI' @mI_BASES_03 by dvmI.a03;
   sub dvmI' @mI_BASES_04 by dvmI.a04;

@@ -322,6 +322,8 @@
 	<string>dvB__BH__RA_.glif</string>
 	<key>dvB_DA</key>
 	<string>dvB__DA_.glif</string>
+	<key>dvB_DHA</key>
+	<string>dvB__DHA_.glif</string>
 	<key>dvB_DH_VA</key>
 	<string>dvB__DH__VA_.glif</string>
 	<key>dvB_JA</key>
@@ -400,6 +402,8 @@
 	<string>dvG__BH__YA_.glif</string>
 	<key>dvG_DA</key>
 	<string>dvG__DA_.glif</string>
+	<key>dvG_DHA</key>
+	<string>dvG__DHA_.glif</string>
 	<key>dvG_DH_VA</key>
 	<string>dvG__DH__VA_.glif</string>
 	<key>dvG_DH_YA</key>
@@ -710,6 +714,8 @@
 	<string>dvN__DA_.glif</string>
 	<key>dvN_DDA</key>
 	<string>dvN__DDA_.glif</string>
+	<key>dvN_DHA</key>
+	<string>dvN__DHA_.glif</string>
 	<key>dvN_DH_RA</key>
 	<string>dvN__DH__RA_.glif</string>
 	<key>dvN_DH_VA</key>

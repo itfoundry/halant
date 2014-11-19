@@ -6,7 +6,7 @@
       <point x="-87" y="-45" type="move" name="_blwm.u"/>
     </contour>
     <contour>
-      <point x="-174" y="11" type="curve"/>
+      <point x="-174" y="11" type="line"/>
       <point x="-241" y="-13"/>
       <point x="-312" y="-40"/>
       <point x="-312" y="-106" type="curve" smooth="yes"/>
@@ -29,24 +29,19 @@
       <point x="-146" y="-359"/>
       <point x="-177" y="-344"/>
       <point x="-177" y="-313" type="curve" smooth="yes"/>
-      <point x="-177" y="-248"/>
-      <point x="-72" y="-235"/>
-      <point x="-33" y="-219" type="curve"/>
-      <point x="-24" y="-212" type="line"/>
-      <point x="-15" y="-205"/>
-      <point x="-30" y="-177"/>
-      <point x="-26" y="-172" type="curve"/>
-      <point x="-55" y="-182"/>
-      <point x="-116" y="-150"/>
-      <point x="-126" y="-150" type="curve" smooth="yes"/>
-      <point x="-157" y="-167"/>
-      <point x="-190" y="-168"/>
-      <point x="-210" y="-155" type="curve" smooth="yes"/>
-      <point x="-226" y="-128"/>
-      <point x="-188" y="-112"/>
-      <point x="-149" y="-95" type="curve"/>
-      <point x="-149" y="-70"/>
-      <point x="-152" y="-36"/>
+      <point x="-177" y="-250"/>
+      <point x="-54" y="-214"/>
+      <point x="-2" y="-198" type="curve"/>
+      <point x="-67" y="-137" type="line"/>
+      <point x="-121" y="-163"/>
+      <point x="-154" y="-177"/>
+      <point x="-180" y="-177" type="curve" smooth="yes"/>
+      <point x="-213" y="-177"/>
+      <point x="-239" y="-159"/>
+      <point x="-239" y="-133" type="curve" smooth="yes"/>
+      <point x="-239" y="-80"/>
+      <point x="-159" y="-63"/>
+      <point x="-87" y="-45" type="curve"/>
     </contour>
   </outline>
 </glyph>

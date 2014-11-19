@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 19:41:34 2014
+# Created: Wed Nov 19 11:57:16 2014
 # PS Name: Halant-Medium
 # MM Inst: None
 # exported from noApp
@@ -116,7 +116,7 @@ lookup MARK_BASE_abvm {
 
 
 lookup MARK_BASE_abvm.i {
-	pos base @mI_BASES_01 <anchor 238 695> mark @MC_abvm.i;
+#	pos base @mI_BASES_01 <anchor 238 695> mark @MC_abvm.i;
 	pos base @mI_BASES_02 <anchor 291 696> mark @MC_abvm.i;
 #	pos base @mI_BASES_03 <anchor 345 696> mark @MC_abvm.i;
 	pos base @mI_BASES_04 <anchor 399 696> mark @MC_abvm.i;

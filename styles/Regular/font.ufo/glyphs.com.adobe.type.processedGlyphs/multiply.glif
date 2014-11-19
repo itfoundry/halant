@@ -4,18 +4,18 @@
   <unicode hex="00D7" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="479" y="457" />
-      <point type="line" x="372" y="568" />
-      <point type="line" x="210" y="393" />
-      <point type="line" x="72" y="480" />
-      <point type="line" x="62" y="444" />
-      <point type="line" x="186" y="366" />
-      <point type="line" x="52" y="221" />
-      <point type="line" x="162" y="109" />
-      <point type="line" x="320" y="282" />
-      <point type="line" x="456" y="197" />
-      <point type="line" x="465" y="232" />
-      <point type="line" x="344" y="309" />
+      <point name="hintSet0000" type="line" x="479" y="532" />
+      <point type="line" x="442" y="569" />
+      <point type="line" x="264" y="376" />
+      <point type="line" x="86" y="568" />
+      <point type="line" x="49" y="532" />
+      <point type="line" x="229" y="338" />
+      <point type="line" x="52" y="146" />
+      <point type="line" x="91" y="109" />
+      <point type="line" x="265" y="299" />
+      <point type="line" x="442" y="109" />
+      <point type="line" x="479" y="143" />
+      <point type="line" x="300" y="337" />
     </contour>
   </outline>
 </glyph>

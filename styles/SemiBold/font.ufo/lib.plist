@@ -405,6 +405,7 @@
 		<string>dvG_NNA</string>
 		<string>dvG_DA</string>
 		<string>dvG_DHA</string>
+		<string>dvDHA</string>
 		<string>dvG_BA</string>
 		<string>dvG_BHA</string>
 		<string>dvG_MA</string>
@@ -655,7 +656,6 @@
 		<string>dvmI.a30</string>
 		<string>dvmI.a31</string>
 		<string>dvmI.a32</string>
-		<string>dvDHA</string>
 		<string>dvZero</string>
 		<string>zerowidthjoiner</string>
 		<string>NULL</string>

@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 19:42:08 2014
+# Created: Wed Nov 19 11:57:52 2014
 # PS Name: Halant-Bold
 # MM Inst: None
 # exported from noApp
@@ -116,7 +116,7 @@ lookup MARK_BASE_abvm {
 
 
 lookup MARK_BASE_abvm.i {
-	pos base @mI_BASES_01 <anchor 246 717> mark @MC_abvm.i;
+#	pos base @mI_BASES_01 <anchor 246 717> mark @MC_abvm.i;
 	pos base @mI_BASES_02 <anchor 299 717> mark @MC_abvm.i;
 	pos base @mI_BASES_03 <anchor 352 717> mark @MC_abvm.i;
 	pos base @mI_BASES_04 <anchor 406 717> mark @MC_abvm.i;
