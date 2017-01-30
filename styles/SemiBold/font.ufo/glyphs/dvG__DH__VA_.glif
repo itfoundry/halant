@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvG_DH_VA" format="1">
-  <advance width="1256"/>
-  <outline>
-    <component base="dvG"/>
-    <component base="dvDH" xOffset="296"/>
-    <component base="dvVA" xOffset="671"/>
-  </outline>
-</glyph>

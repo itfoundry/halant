@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvR" format="1">
-  <advance width="399"/>
-  <outline>
-    <component base="dvRA"/>
-    <component base="dvVirama" xOffset="357" yOffset="19"/>
-  </outline>
-</glyph>

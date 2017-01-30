@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvSS_SSA" format="1">
-  <advance width="850"/>
-  <outline>
-    <component base="dvSSA" xOffset="298"/>
-    <component base="dvSS"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvK_NNA" format="1">
-  <advance width="1338"/>
-  <outline>
-    <component base="dvNNA" xOffset="612"/>
-    <component base="dvK"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvP_YA" format="1">
-  <advance width="881"/>
-  <outline>
-    <component base="dvYA" xOffset="276"/>
-    <component base="dvP"/>
-  </outline>
-</glyph>
